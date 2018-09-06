@@ -1,0 +1,17 @@
+<apex:page >
+UserName : student@313.com
+Password: satishmyla313
+
+<br/><br/>
+
+Sandbox :1
+----------------------------------------
+satish@capitalinfosol.com.uitest
+Password : capital@123
+<br/><br/>
+----------------------------------------
+sandbox :2
+---------------------------------------
+satish@capitalinfosol.com.qatest
+password:capital@123
+</apex:page>
